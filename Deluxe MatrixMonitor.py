@@ -9,7 +9,7 @@ import requests
 import xml.etree.ElementTree as ET
 
 # --- NewsAPI-Konfiguration ---
-NEWS_API_KEY = "911d03f1a5c74e9a86de9922ad8031d6"  # Bitte hier deinen API-Key eintragen!
+NEWS_API_KEY = "ApI"  # Bitte hier deinen API-Key eintragen!
 NEWS_API_URL = "https://newsapi.org/v2/top-headlines"
 
 # RSS-Feed URL als zweite Quelle (z.B. Tagesschau)
