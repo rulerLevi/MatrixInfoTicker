@@ -1,2 +1,4 @@
 # MatrixInfoTicker
 Matrix-Effekt mit Systeminfos und einem dynamischen News-Ticker kombinierst
+DeluxeMatrixDashboard
+DeluxeMatrixDashboard ist eine innovative Anwendung, die auf eindrucksvolle Weise einen klassischen Matrix-Effekt mit moderner Systemüberwachung und aktuellen Nachrichten kombiniert. Das Dashboard zeigt in Echtzeit Informationen zur CPU-, RAM-, GPU- und Netzwerkaktivität, während im Hintergrund ein dynamischer Matrix-Effekt die Konsole füllt. Gleichzeitig scrollt ein integrierter Newsticker – gespeist aus NewsAPI.org und einem RSS-Feed (z. B. von Tagesschau) – aktuelle Nachrichten inklusive kurzer Zusammenfassungen. Interaktive Elemente wie anklickbare News, die im Browser geöffnet werden, und ein Regler zur Anpassung der News-Schriftgröße runden das Benutzererlebnis ab. Ideal für alle, die Systemperformance und weltweite Nachrichten auf einen Blick erleben möchten – mit einem Hauch von Retro-Matrix-Ästhetik.
